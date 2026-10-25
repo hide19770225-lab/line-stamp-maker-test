@@ -1,0 +1,1 @@
+PR #107 protected. Isolated preview only. Source: commit 8cb823e08ca42f8dbd38edee7c297054d77f430f. Replaced only core.js with previously tested candidate. No source images, sticker PNGs or output ZIP included. This is NOT a deployed URL or final quality approval. Host this static folder separately over HTTPS to test on iPhone Safari. Do not overwrite main or PR #107.

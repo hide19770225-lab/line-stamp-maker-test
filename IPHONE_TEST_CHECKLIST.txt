@@ -1,0 +1,16 @@
+PR #107 iPhone Safari test checklist (2026-10-25)
+
+This ZIP contains a deployment-ready copy of the isolated preview. It has NOT been deployed or tested on iPhone.
+
+1. Deploy these files together at the root of a NEW separate HTTPS site. Do not overwrite the existing GitHub Pages site.
+2. On iPhone Safari, open the new HTTPS URL.
+3. Load original_5x8.png using the image picker.
+4. Run automatic processing of 40 images.
+5. Confirm all 40 images are visible and no cropping, mixed captions or missing text.
+6. Confirm all image review checkboxes/buttons work.
+7. Save the ZIP; verify 40 sticker PNGs plus main and tab (42 PNG files).
+8. Open stamps 21, 26, 30 and 33 on light and dark backgrounds and inspect white halos and text.
+9. If any step fails, capture the screen and exact error message.
+
+Safety: PR #107/main unchanged. No original image, output stickers or generated ZIP are included.
+SHA256SUMS.txt provides hashes for source files.
